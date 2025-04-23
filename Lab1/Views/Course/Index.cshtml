@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Add course </h1>
+Courseid:<input type="text" id="courseid" />
+<br />
+<br />
+CourseName: <input type="text" id="coursename" />
+<br />
+<br />
+CourseDuration: <input type="text" id="courseduration" />
+<br />
+<br />
+TopicID: <input type="text" id="topicID" />
+
+
+<input type="button" value="Add" onclick="Add()" />
+
+
+@section Scripts
+{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script>
+        //Define Connection
+         con = new signalR.HubConnectionBuilder().withUrl("/course").build();
+
+        //start connection
+        con.start();
+
+        //define calling server method
+        function Add()
+        {
+
+            var obj={
+                "Crs_Id":parseInt($("#courseid").val()),
+                "Crs_Name":$("#coursename").val(),
+                "Crs_Duration":parseInt($("#courseduration").val()),
+                "Top_Id":  parseInt($("#topicID").val())
+            }
+           con.invoke("addcourse", obj);
+        }
+
+    </script>
+
+}

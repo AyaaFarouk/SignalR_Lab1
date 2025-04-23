@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\hubs\\coursehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\hubs\\coursehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\views\\course\\displaycourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\course\\displaycourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|d:\\iti 9 months\\signalr\\lab1\\lab1\\lab1\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8B27-97D5-4393-87CD-1B364728AF54}|Lab1\\Lab1.csproj|solutionrelative:lab1\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\Course.cs",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Models\\Course.cs",
+              "RelativeToolTip": "Lab1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:28:46.096Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseHub.cs",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Hubs\\CourseHub.cs",
+              "RelativeDocumentMoniker": "Lab1\\Hubs\\CourseHub.cs",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Hubs\\CourseHub.cs",
+              "RelativeToolTip": "Lab1\\Hubs\\CourseHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:50:47.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vwcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:43:23.487Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Lab1\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Lab1\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:42:05.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayCourse.cshtml",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Views\\Course\\DisplayCourse.cshtml",
+              "RelativeDocumentMoniker": "Lab1\\Views\\Course\\DisplayCourse.cshtml",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Views\\Course\\DisplayCourse.cshtml",
+              "RelativeToolTip": "Lab1\\Views\\Course\\DisplayCourse.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAD4vzkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T19:40:07.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vyAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:16:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "Lab1\\Models\\ITIContext.cs",
+              "ToolTip": "D:\\iti 9 months\\SignalR\\Lab1\\Lab1\\Lab1\\Models\\ITIContext.cs",
+              "RelativeToolTip": "Lab1\\Models\\ITIContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:14:26.678Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
